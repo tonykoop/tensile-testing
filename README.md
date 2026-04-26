@@ -47,7 +47,7 @@ Printing was done on **SLM Solutions SLM 125** and **SLM 280** machines. Tensile
 *Specimen prep mid-cycle: an AM-printed cylindrical blank held between three-jaw chuck (left) and live center (right) on the lathe, tool turret retracted between cuts. The moment between the rough-OD turning pass and the gage-section finish pass. Full lathe + mill operator narrative is in the [`cnc`](https://github.com/tonykoop/cnc) sister repo.*
 
 ![A batch of cylindrical AM tensile-specimen blanks on the SLM build plate](images/2023-02-14%2016.05.16.jpg)
-*A batch of cylindrical AM-printed tensile-specimen blanks still attached to the SLM build plate, before separation and lathe finishing. Each blank becomes one E8 sub-size specimen.*
+*A batch of cylindrical AM-printed tensile-specimen blanks still attached to the SLM build plate, before separation and lathe finishing. Each blank becomes one E8 sub-size specimen. This study compared vertically printed vs horizontally printed cylinder specimens*
 
 ![TestResources universal testing machine in the lab](images/2022-11-15%2012.26.47.jpg)
 *The TestResources load frame in its lab corner. Load-cell capacity here is what drove the Inconel specimen-size adaptation, next.*
