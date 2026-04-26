@@ -41,16 +41,10 @@ At **Uniformity Labs (Fremont, CA)** I ran the tensile-testing arm of metal addi
 
 ### Equipment
 
-Printing was done on **SLM Solutions SLM 125** and **SLM 250** machines. Specimen prep went through a **Haas ST-20Y CNC turning center** for the cylindrical gage section, with a **Haas VF-2 vertical machining center** available for fixturing work. Tensile pulls used a **TestResources** universal testing machine.
+Printing was done on **SLM Solutions SLM 125** and **SLM 280** machines. Tensile pulls were performed on a **TestResources** universal testing machine. The CNC specimen-prep work that turned printed cylindrical blanks into ASTM E8 sub-size geometry is documented separately in [`cnc`](https://github.com/tonykoop/cnc) (sister repo).
 
-![Haas ST-20Y CNC turning center](images/2023-02-23%2009.00.40.jpg)
-*The Haas ST-20Y. Each AM-printed cylindrical blank gets turned here to its final ASTM E8 sub-size geometry before testing. The Y-axis matters for off-center features needed on some specimen variants.*
-
-![Haas VF-2 vertical machining center](images/2023-02-23%2009.00.59.jpg)
-*The Haas VF-2 — fixturing work and non-rotational specimen features.*
-
-![Inside the lathe — partially-turned tensile specimen blank between chuck and live center, with tool turret retracted](images/2022-08-25%2010.31.42.jpg)
-*Inside the ST-20Y mid-cycle: a cylindrical specimen blank held between three-jaw chuck (left) and live center (right), tool turret retracted. The moment between the rough-OD turning pass and the gage-section finish pass.*
+![Inside the lathe mid-cycle — partially-turned cylindrical tensile specimen blank between chuck and live center](images/2022-08-25%2010.31.42.jpg)
+*Specimen prep mid-cycle: an AM-printed cylindrical blank held between three-jaw chuck (left) and live center (right) on the lathe, tool turret retracted between cuts. The moment between the rough-OD turning pass and the gage-section finish pass. Full lathe + mill operator narrative is in the [`cnc`](https://github.com/tonykoop/cnc) sister repo.*
 
 ![A batch of cylindrical AM tensile-specimen blanks on the SLM build plate](images/2023-02-14%2016.05.16.jpg)
 *A batch of cylindrical AM-printed tensile-specimen blanks still attached to the SLM build plate, before separation and lathe finishing. Each blank becomes one E8 sub-size specimen.*
@@ -119,8 +113,8 @@ Currently R&D Technician on the **Teleflex UroLift 3** program in Pleasanton, CA
 
 ## What this repository is for
 
-- **Methodology + judgment demonstration.** Three different product domains (medical implants, drug-delivery devices, AM-printed metals), one through-line: tensile testing as a tool for engineering decision-making. Equipment fluency (SLM, Haas turning + milling, TestResources, Instron), standards literacy (ASTM E8/E8M as a *toolkit* not a *recipe* — see the Inconel sub-sub-size story), and DoE-driven process development.
-- **Portfolio frame.** This is one of three engineering-context repositories on my GitHub — alongside [`suction-cup-mount`](https://github.com/tonykoop/suction-cup-mount) and [`metal-powder-flow-device`](https://github.com/tonykoop/metal-powder-flow-device) — documenting my mechanical R&D practice across roles, with strict separation between portfolio narrative and proprietary employer IP.
+- **Methodology + judgment demonstration.** Three different product domains (medical implants, drug-delivery devices, AM-printed metals), one through-line: tensile testing as a tool for engineering decision-making. Test-frame fluency across vendors, standards literacy (ASTM E8/E8M as a *toolkit* not a *recipe* — see the Inconel sub-sub-size story), and DoE-driven process development.
+- **Portfolio frame.** This sits in a cluster of engineering-context repositories on my GitHub — alongside [`suction-cup-mount`](https://github.com/tonykoop/suction-cup-mount), [`metal-powder-flow-device`](https://github.com/tonykoop/metal-powder-flow-device), [`cnc`](https://github.com/tonykoop/cnc), and [`additive-manufacturing`](https://github.com/tonykoop/additive-manufacturing) — documenting my mechanical R&D practice across roles, with strict separation between portfolio narrative and proprietary employer IP.
 
 ## Repository structure
 
