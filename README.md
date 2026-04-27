@@ -19,7 +19,7 @@ Three different universal testing machines across three roles — the major play
 |---|---|---|
 | **TestResources** universal testing machine | Uniformity Labs | AM-printed metal specimens, ASTM E8 sub-size and sub-sub-size pulls |
 | **Zwick** universal testing machine | Johnson & Johnson | Auto-injector aging studies (force, displacement, viscosity-driven actuation) |
-| **Instron** universal testing machine | Teleflex | UroLift 3 R&D — current role; details deferred to post-tenure documentation |
+| **Instron** universal testing machine | Teleflex | UroLift 3 R&D — current role; friction reduction |
 
 Test-frame fluency across vendors matters more than any single brand: the loading mechanics, control software, fixturing conventions, and load-cell selection logic transfer, but each vendor's interface and data-export quirks have to be re-learned per shop.
 
