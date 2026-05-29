@@ -1,5 +1,7 @@
 # Tensile Testing — Mechanical Properties Characterization in R&D
 
+**Status:** L1 concept packet scaffolded for tensile-test rig fixtures, grip load path, and stored-energy safety. See [`l1-concept/`](l1-concept/) for the build-toward packet; it is concept-level only and is not a release-to-build fixture design.
+
 > *A decade of tensile-testing work across three R&D contexts: metal additive manufacturing at Uniformity Labs (the deepest documented thread), drug-delivery device development at Johnson & Johnson, and minimally-invasive medical implant work at Teleflex on Instron load frames.*
 
 ![Hero photo — ASTM E8 sub-size tensile specimen mounted between extensometer arms in the TestResources frame](images/2023-04-11%2014.21.05.jpg)
@@ -123,6 +125,8 @@ tensile-testing/
 ├── README.md                  ← you are here
 ├── LICENSE                    ← CC-BY 4.0 (scoped to original content only)
 ├── images/                    ← equipment and specimen photos
+├── l1-concept/                ← concept packet for fixture, grip, and safety planning
+├── skills/                    ← reusable method notes
 └── (future) reference/        ← public-domain methodology references (E8 figures, etc.)
 ```
 
@@ -134,6 +138,7 @@ tensile-testing/
 | Hero + equipment photos | ✓ done |
 | AM DoE methodology narrative | ✓ done |
 | Prior J&J + Teleflex experience summary | ✓ done |
+| L1 fixture/safety concept packet | scaffolded |
 | Public-domain methodology references (E8 figures, etc.) | forthcoming |
 
 ## License
